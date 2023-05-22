@@ -4,11 +4,11 @@ It is required to write a computerprogram (C, C++, Python, Java, ...) to perform
 
 1. Student name,which is to be defined as a structure containing the following:
 
- a) First name
+a) First name
 
- b) Middle name
+b) Middle name
 
- c) Last name
+c) Last name
 
 2. Student registration number,  which  may  be  automatically  generated  for  new  students  orentered (e.g., year: 2022 -term 2-faculty: Data Sciences andComputing (25) –Department: General  (01) -student  number:13 => 2022225010013) by the  user  according  to  the user requirements.Please assume numbers for different options.Student data must be preserved in the data structure.
 
